@@ -1,5 +1,7 @@
-"version": {
-  "developer": "seasonal",
-  "update_url": "https://raw.githubusercontent.com/SeasonalKirito/Python/main/auto-update/version.json",
-  "code": 1.0.0
+{
+  "version": {
+    "developer": "seasonal",
+    "update_url": "https://raw.githubusercontent.com/SeasonalKirito/Python/main/auto-update/version.json",
+    "code": "1.0.0"
+  }
 }
